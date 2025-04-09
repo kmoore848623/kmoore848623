@@ -9,7 +9,9 @@
   - [osTicket: Prerequisites and Installation](https://github.com/kmoore848623/osticket-prereqs)
 - <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/kmoore848623/active-directory)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+-   <b> Network File Shares and Permissions within Azure VMs </b>
+    - [Configuring Network File Shares and Permissions within Active Directory / Azure VMs](https://github.com/adaircharles/nfs-permissions)
+    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/adaircharles/nsgs-protocols)    
 
 
 <h2>🤳Connect with me:</h2>
