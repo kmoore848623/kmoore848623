@@ -11,7 +11,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/kmoore848623/active-directory)
 -   <b> Network File Shares and Permissions within Azure VMs </b>
     - [Configuring Network File Shares and Permissions within Active Directory / Azure VMs](https://github.com/adaircharles/nfs-permissions)
-    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/adaircharles/nsgs-protocols)    
+    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kmoore848623/nsgs-protocols)    
 
 
 <h2>🤳Connect with me:</h2>
